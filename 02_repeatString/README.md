@@ -1,4 +1,4 @@
-# Exercise 02 - repeatString
+# Exercise 02 - repeatString <- DONE
 
 Write a function that simply repeats the string a given number of times:
 
